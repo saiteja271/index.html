@@ -3,59 +3,6 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Creative Collaboration Hub</title>
-  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;500;700&display=swap" rel="stylesheet" />
-  <style>
-    * {
-      box-sizing: border-box;
-      margin: 0;
-      padding: 0;
-      font-family: 'Poppins', sans-serif;
-    }
-    body {
-      background-color: #f5f7fa;
-      color: #333;
-      line-height: 1.6;
-    }
-    header {
-      background: #6236ff;
-      color: white;
-      padding: 2rem;
-      text-align: center;
-    }
-    header h1 {
-      font-size: 2.5rem;
-    }
-    header p {
-      margin-top: 0.5rem;
-      font-size: 1.1rem;
-    }
-    section {
-      padding: 3rem 2rem;
-      max-width: 1100px;
-      margin: auto;
-    }
-    h2 {
-      color: #6236ff;
-      margin-bottom: 1rem;
-    }
-    ul {
-      margin-left: 2rem;
-      margin-bottom: 2rem;
-    }
-    .highlight {
-      background-color: #e8eaff;
-      padding: 1rem;
-      border-left: 4px solid #6236ff;
-      margin-bottom: 2rem;
-    }
-    footer {
-      background: #1e1e2f;
-      color: white;
-      text-align: center;
-      padding: 1rem;
-    }
-  </style>
 </head>
 <body>
   <header>
